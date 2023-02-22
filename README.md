@@ -1,1 +1,1 @@
-# mathServer
+This is my first project in NodeJs. In this project you can find the the apis for doing mathematical operations like Arthematic operations, Matrix Operations, Bit wise Operations and Trignometric operaitons.
